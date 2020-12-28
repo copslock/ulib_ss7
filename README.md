@@ -1,0 +1,2 @@
+# ulib_ss7
+SS7 framework based on ulib https://github.com/andreasfink/ulibgsmmap ulibasn1 a library to make it easier to deal with ASN.1 encoded objects. ulibsmpp a library to deal with the SMPP protocol ulibsctp a library to extend ulib with SCTP specific sockets ulibm2pa a library implementing the SS7 MTP2 protocol ulibmtp3 a library implementing the SS7 MTP3 protocol ulibm3ua a library implementing the SS7 M3UA protocol ulibsccp a library implementing the SS7 SCCP protocol ulibgt a library implementing SS7 SCCP Global Title handling
